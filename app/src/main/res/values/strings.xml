@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">DcPassenger</string>
+    <string name="facebook_app_id">857648274578541</string>
+    <string name="fb_login_protocol_scheme">fb857648274578541</string>
 </resources>
